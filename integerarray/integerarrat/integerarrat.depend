@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1497026407 source:/home/lan/Escritorio/integerarray/integerarrat/main.cpp
+	<iostream>
+	<integerarray.h>
+	<Polygon.h>
+
+1497023242 source:/home/lan/Escritorio/integerarray/integerarrat/src/integerarray.cpp
+	"integerarray.h"
+	<vector>
+
+1497022776 /home/lan/Escritorio/integerarray/integerarrat/include/integerarray.h
+	<point.h>
+
+1496425947 source:/home/lan/Escritorio/integerarray/integerarrat/src/point.cpp
+	"point.h"
+
+1496426001 /home/lan/Escritorio/integerarray/integerarrat/include/point.h
+	<iostream>
+
+1497024221 source:/home/lan/Escritorio/integerarray/integerarrat/src/Polygon.cpp
+	"Polygon.h"
+
+1497024243 /home/lan/Escritorio/integerarray/integerarrat/include/Polygon.h
+	<integerarray.h>
+	<point.h>
+	<cmath>
+
